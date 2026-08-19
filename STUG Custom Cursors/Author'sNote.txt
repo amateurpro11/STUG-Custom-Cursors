@@ -3,7 +3,7 @@
  Note: The cursors are not entirely my own ideas and designs, but include pre-made emotes,
 decals, and cursors taken from STUG. This cursor package is not copyrighted and is free to
 use.
- XX/07/26
+ 20/08/26
  Author: AmateurPro
  Some emotes, decals, and cursors are taken from: STUG.io
  
@@ -19,14 +19,6 @@ use.
  Also, emotes like Tabby and Salty have animations but don't exist as frames, and I couldn't find their
  GIFs, so I couldn't edit and create animated cursors for them. Also thanks to Adobe Illustrator, I was
  able to design these custom cursors that I came up with.
- Anyway, I really hope this cursor pack makes your desktop a little more fun :)
+ Anyway, I really hope this cursor pack makes your desktop a little more fun.
 
 -------------------------------
-
-  If you have any questions or additions, please DM me via the following Discord username: @amateurpro_11
-
-  Subscribe to my YouTube channel via this link: https://www.youtube.com/@amateurpro_11
-
-  Please do not redistribute or claim this work as your own.
-
-  Thank you for downloading and supporting my work!
