@@ -1,0 +1,24 @@
+-------------------------------
+
+ ***STEPS TO CHANGE YOUR CURSORS***
+ Step 1: Press Win + R on your keyboard
+
+ Step 2: If you see a small window in the bottom left corner, type main.cpl and press Enter
+
+ Step 3: Choose Pointers
+
+ Step 4: Now, click the Browse button, then navigate to the folder containing the cursors you want to change.
+
+ Step 5: Select the correct cursor for each role, then click apply to make the changes.
+
+  Done! Now you have your favorite custom cursors!
+
+-------------------------------
+
+  If you have any questions or additions, please DM me via the following Discord username: @amateurpro_11
+
+  Subscribe to my YouTube channel via this link: https://www.youtube.com/@amateurpro_11
+
+  Please do not redistribute or claim this work as your own.
+
+  Thank you for downloading and supporting my work!
