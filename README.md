@@ -1,7 +1,7 @@
 -------------------------------
 20/08/26
-# Hello,
-   allow me to introduce myself. I'm AmateurPro, a long-time STUG player.
+# Hello,...
+   ...allow me to introduce myself. I'm AmateurPro, a long-time STUG player.
  I love new ideas, art, music, and doing fun things on the computer. When I
  was a child, my dream was to become a programmer (to develop games), but as
  I grew up, I realized it wasn't an easy job. Therefore, I switched to 
