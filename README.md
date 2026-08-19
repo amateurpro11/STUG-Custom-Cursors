@@ -1,7 +1,7 @@
 -------------------------------
 20/08/26
-# Hello,...
-   ...allow me to introduce myself. I'm AmateurPro, a long-time STUG player.
+# Hello,
+ allow me to introduce myself. I'm **AmateurPro**, a long-time STUG player.
  I love new ideas, art, music, and doing fun things on the computer. When I
  was a child, my dream was to become a programmer (to develop games), but as
  I grew up, I realized it wasn't an easy job. Therefore, I switched to 
@@ -25,14 +25,12 @@
  perfection in everything I do (but only in things I enjoy doing, like video
  editing, drawing, icon design, maps, etc.).
 
--------------------------------
-
-
-
   Probably that's all I wanted to express. Your support is always my motivation
  to try harder and contribute great value to the STUG community. Thank you for reading!
 
 -------------------------------
+
+# Contact and Support Me
 
   If you have any questions or additions, please DM me via the following Discord username: @amateurpro_11
 
